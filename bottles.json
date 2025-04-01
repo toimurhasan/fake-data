@@ -2,7 +2,7 @@
     "water_bottles": [
       {
         "id": 1,
-        "brand": "Hydro Flask",
+        "brand": "Toimur Hasan",
         "capacity_ml": 1000,
         "material": "Stainless Steel",
         "color": "Black",
@@ -11,7 +11,7 @@
       },
       {
         "id": 2,
-        "brand": "Nalgene",
+        "brand": "Tonima Akter",
         "capacity_ml": 950,
         "material": "Plastic",
         "color": "Blue",
