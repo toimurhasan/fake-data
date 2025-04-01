@@ -1,0 +1,50 @@
+{
+    "water_bottles": [
+      {
+        "id": 1,
+        "brand": "Hydro Flask",
+        "capacity_ml": 1000,
+        "material": "Stainless Steel",
+        "color": "Black",
+        "price_usd": 39.99,
+        "insulated": true
+      },
+      {
+        "id": 2,
+        "brand": "Nalgene",
+        "capacity_ml": 950,
+        "material": "Plastic",
+        "color": "Blue",
+        "price_usd": 14.99,
+        "insulated": false
+      },
+      {
+        "id": 3,
+        "brand": "CamelBak",
+        "capacity_ml": 750,
+        "material": "Tritan Plastic",
+        "color": "Green",
+        "price_usd": 19.99,
+        "insulated": false
+      },
+      {
+        "id": 4,
+        "brand": "Yeti",
+        "capacity_ml": 1200,
+        "material": "Stainless Steel",
+        "color": "Silver",
+        "price_usd": 49.99,
+        "insulated": true
+      },
+      {
+        "id": 5,
+        "brand": "Contigo",
+        "capacity_ml": 700,
+        "material": "Plastic",
+        "color": "Red",
+        "price_usd": 12.99,
+        "insulated": false
+      }
+    ]
+  }
+
